@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Lad</h1>
-<h3 align="center">An AI/ML & Computer Vision researcher</h3>
+<h3 align="center">A Multimodal AI/ML & Computer Vision researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilad1009&label=Profile%20views&color=0e75b6&style=flat" alt="abhilad1009" /> </p>
 
