@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **NLP, Generative Models and their Limitations**
 
-- 👯 I’m looking to collaborate on **Personality Replicator LLM**
+- 👯 I’m looking to collaborate on **product/value driven LLM applications**
 
 - 💬 Ask me about **heuristic approaches**
 
-- 📫 How to reach me **al4363@columbia.edu**
+- 📫 How to reach me **abhinlad@gmail.com**
 
 - ⚡ Fun fact **I am formally trained in art, music, dance, swimming, martial arts and cooking**
 
